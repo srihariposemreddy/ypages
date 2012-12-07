@@ -1,0 +1,22 @@
+%% rel generated at {2012,11,29} {18,38,55}
+{release,{"ypages","1"},
+         {erts,"5.9.2"},
+         [{kernel,"2.15.2"},
+          {stdlib,"1.18.2"},
+          {crypto,"2.2"},
+          {public_key,"0.16"},
+          {ssl,"5.1"},
+          {ypages,"1"},
+          {sasl,"2.2.1"},
+          {mochijson2,"0.1"},
+          {protobuffs,"0.7.0"},
+          {riak_pb,"1.2.0"},
+          {riakc,"1.3.1"},
+          {asn1,"1.8",load},
+          {compiler,"4.8.2",load},
+          {eunit,"2.2.3",load},
+          {ibrowse,"4.0.1",load},
+          {syntax_tools,"1.6.9",load},
+          {tools,"2.6.8",load},
+          {xmerl,"1.3.2",load}]}.
+

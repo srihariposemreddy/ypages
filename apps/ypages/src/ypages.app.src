@@ -1,0 +1,14 @@
+{application, ypages,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  crypto,
+                  ssl
+                 ]},
+  {mod, { ypages_app, []}},
+  {env, []}
+ ]}.
